@@ -1,3 +1,4 @@
+// Specifies the package for organizing the code
 package com.example.sbaauth;
 
 import org.springframework.boot.SpringApplication;

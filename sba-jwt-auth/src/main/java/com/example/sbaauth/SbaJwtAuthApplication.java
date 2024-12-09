@@ -7,9 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SbaJwtAuthApplication {
-	
+
 // The main method serves as the application's entry point
 	public static void main(String[] args) {
+
+		// Launches the Spring Boot application
 		SpringApplication.run(SbaJwtAuthApplication.class, args);
 	}
 

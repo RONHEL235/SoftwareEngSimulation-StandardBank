@@ -5,6 +5,7 @@ package com.example.sbaauth;
 
 // Provides methods to bootstrap a Spring application
 import org.springframework.boot.SpringApplication;
+// Combines @Configuration, @EnableAutoConfiguration, and @ComponentScan annotations
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 // Marks this class as the main entry point for the Spring Boot application

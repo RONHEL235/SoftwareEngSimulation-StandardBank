@@ -3,7 +3,7 @@ package com.example.sbaauth;
 
 // Importing Spring Boot class to handle the application startup process
 
-
+// Provides methods to bootstrap a Spring application
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

@@ -2,6 +2,8 @@
 package com.example.sbaauth;
 
 // Importing necessary JUnit and Spring Boot test classes
+
+// Marks a method as a test case
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 

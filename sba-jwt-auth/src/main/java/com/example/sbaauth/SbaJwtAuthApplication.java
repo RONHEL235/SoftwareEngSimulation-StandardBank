@@ -1,7 +1,9 @@
 // Specifies the package for organizing the code
 package com.example.sbaauth;
 
-// Importing necessary Spring Boot classes
+// Importing Spring Boot class to handle the application startup process
+
+
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

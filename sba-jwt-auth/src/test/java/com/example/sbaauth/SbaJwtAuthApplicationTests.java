@@ -5,6 +5,7 @@ package com.example.sbaauth;
 
 // Marks a method as a test case
 import org.junit.jupiter.api.Test;
+// Loads the full Spring application context for testing
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest

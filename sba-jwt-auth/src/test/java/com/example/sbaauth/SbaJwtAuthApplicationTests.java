@@ -8,6 +8,7 @@ import org.junit.jupiter.api.Test;
 // Loads the full Spring application context for testing
 import org.springframework.boot.test.context.SpringBootTest;
 
+// Marks this class as a Spring Boot test class
 @SpringBootTest
 class SbaJwtAuthApplicationTests {
 

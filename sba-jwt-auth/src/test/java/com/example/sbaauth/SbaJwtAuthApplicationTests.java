@@ -1,3 +1,4 @@
+// Specifies the package for organizing the test class
 package com.example.sbaauth;
 
 import org.junit.jupiter.api.Test;
@@ -9,5 +10,4 @@ class SbaJwtAuthApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
